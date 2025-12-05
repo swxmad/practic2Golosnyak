@@ -1,0 +1,28 @@
+.container{
+    max-width: 1110px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+    height: 420px;
+    align-items: center;
+}
+
+.icon p{
+    font-family: 'Rubik';
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.icon img{
+    width: 150px;
+    height: 150px;
+}
+
+.icon{
+    width: 214px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}

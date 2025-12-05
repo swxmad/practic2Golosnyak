@@ -1,0 +1,13 @@
+.riviews {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1110px;
+    margin: 0 auto;
+}
+
+.riview{
+    width: 100%;
+    background-color: #F9F8FB;
+    padding: 100px 0px;
+}

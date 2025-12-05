@@ -1,0 +1,15 @@
+.information{
+    width: 1110px;
+    font-family: 'Rubik';
+    font-size: 16px;
+    color: #828282;
+    margin: 0 auto;
+}
+
+.lj{
+    background-color: #F0F0F0;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

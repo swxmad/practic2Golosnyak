@@ -1,0 +1,31 @@
+.block img{
+    width: 100px;
+    height: auto;
+}
+
+.block p{
+    font-family: 'Rubik';
+    font-size: 14px;
+}
+
+.block{
+    max-width: 1110px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+    height: 107px;
+    align-items: center;
+}
+
+.zakaz img{
+    width: 24px;
+    height: auto;
+}
+
+.zakaz{
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+}

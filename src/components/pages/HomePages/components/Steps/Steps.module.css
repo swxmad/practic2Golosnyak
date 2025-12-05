@@ -1,0 +1,51 @@
+.stepss{
+    background-image: url('/images/Frame 1.png');
+    background-size: cover;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 10%;
+}
+
+.zaglav{
+    font-family: 'Neucha';
+    font-size: 24px;
+    text-align: center;
+}
+
+.step img{
+    width: 145px;
+    height: 145px;
+}
+
+.z{
+    font-family: 'Rubik';
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.o{
+    font-family: 'Rubik';
+    font-size: 16px;
+    min-width: 255px;
+    max-width: 366px;
+}
+
+.step{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.steps{
+    width: 1110px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 30px;
+}

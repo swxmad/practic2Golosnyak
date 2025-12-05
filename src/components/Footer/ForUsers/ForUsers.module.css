@@ -1,0 +1,25 @@
+.foru{
+     display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.zz{
+    color: #6AAE55;
+    font-family: 'Rubik';
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sod{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.lk{
+    color: white;
+    font-family: 'Rubik';
+    font-size: 16px;
+    font-weight: lighter;
+}

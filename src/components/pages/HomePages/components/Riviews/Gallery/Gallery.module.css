@@ -1,0 +1,16 @@
+.zags{
+    width: 360px;
+}
+
+.zags p{
+    font-family: 'Neucha';
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+.pics{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 20px;
+}

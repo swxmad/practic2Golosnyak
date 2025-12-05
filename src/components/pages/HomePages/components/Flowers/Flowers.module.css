@@ -1,0 +1,12 @@
+.flowers{
+    width: 1110px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 100px 0px;
+}
+
+.back{
+background-color: #F9F8FB;
+}

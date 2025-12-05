@@ -1,0 +1,31 @@
+header{
+    height: 40px;
+    background-color: #5B4A58;
+}
+
+.header{
+    max-width: 1110px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.city{
+    display: flex;
+    flex-direction: row;
+    inline-size: auto;
+    margin-top: 9px;
+    gap: 8px;
+}
+
+.city img{
+    width: 14px;
+    height: 19px;
+}
+
+.opisanie{
+    font-family: 'Rubik';
+    color: white;
+    font-size: 16px;
+}

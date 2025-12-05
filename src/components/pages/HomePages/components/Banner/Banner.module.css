@@ -1,0 +1,47 @@
+.banner{
+    background-image: url('/images/Фон_изображение.png');
+    background-size: cover;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+.banner p{
+    font-family: 'Neucha';
+    text-align: center;
+}
+
+.inf{
+    font-size: 35px;
+
+}
+
+.city{
+    font-size: 65px;
+}
+
+.info button{
+    background-color: #6AAE55;
+    color: white;
+    font-size: 18px;
+    font-family: 'Rubik';
+    width: 210px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 33px;
+}
+
+button:hover{
+    background-color: #376e26;
+    color: rgb(238, 238, 238);
+}
+
+.info{
+    max-width: 1110px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 200px;
+    align-items: center;
+}

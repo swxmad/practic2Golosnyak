@@ -1,0 +1,53 @@
+.ghuk {
+    width: 700px;
+}
+
+.p {
+    font-family: 'Neucha';
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+.name p {
+    font-family: 'Rubik';
+    color: #6AAE55;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.dattime {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.dattime p {
+    font-family: 'Roboto';
+    color: #828282;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.verh img {
+    width: 96px;
+    height: 14px;
+}
+
+.verh {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ot {
+    color: #7E6579;
+    font-family: 'Rubik';
+    font-size: 16px;
+    margin-top: 8px;
+}
+
+hr{
+    color: #E0E0E0;
+    margin: 20px 0px;
+}
